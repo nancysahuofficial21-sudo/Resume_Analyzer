@@ -48,7 +48,7 @@ streamlit run app.py
 ---
 
 📸 Screenshots
-![Website Screenshot](Screenshots.png)
+![Website Screenshot](Screenshot/screenshots.png)
 
 
 ---
