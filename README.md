@@ -1,4 +1,4 @@
-# Rsume_Analyzer
+# Resume_Analyzer
 AI-powered resume analyzer with ATS scoring, job matching, and smart feedback using FastAPI and Streamlit.
 🚀 AI Resume Analyzer
 
