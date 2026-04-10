@@ -48,7 +48,7 @@ streamlit run app.py
 ---
 
 📸 Screenshots
-![Website Screenshot](Screenshots/screenshot.png)
+![Website Screenshot](C:\Users\nancy\ai-resume-analyzer\Screenshots)
 
 
 ---
